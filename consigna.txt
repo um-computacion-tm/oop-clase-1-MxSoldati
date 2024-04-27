@@ -1,0 +1,6 @@
+1.  Agregar test para clase Materia y Profesor incluyendo test de constructor y demás metodos
+2. La clase materia deberia tener un atributo __ alumnos __ equivalente a una lista de Alumnos. 
+Empezando por los tests:
+3. Implementar la clase Alumno
+4. Agregar atributo __ alumno __ a clase Materia
+5. Agregar metodo obtener_alumnos(self) que devuelva __ alumnos __ 
